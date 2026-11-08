@@ -1,0 +1,6 @@
+{
+  "name": "SmartQuiz - Interactive Examination Portal",
+  "description": "Interactive online quiz examination platform with live countdown timer, student & admin portals, result analytics, and complete Java Servlets, JDBC & MySQL mini-project architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
